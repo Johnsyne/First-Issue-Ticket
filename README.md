@@ -8,7 +8,7 @@ This repository is for the **Initial Team Setup** task. All co-founders must con
 | :----------------------------------- | :------------------- | :-------------------- | :--------------------- |
 | **Founder & CEO**                    | Your-full-name       | @your-github-username | your-email             |
 | **Chief Technology Officer (CTO)**   | Your-full-name       | @your-github-username | your-email             |
-| **Chief Design Officer (CDO)**       | Your-full-name       | @your-github-username | your-email             |
+| **Chief Design Officer (CDO)**       | Ibe Angel Chinenye       | @ibeangel13Design | ibeangel13@gmail.com             |
 | **Chief Operating Officer (COO)**    | Jesutofunmi Egbewale Goodnews       | @goodnews-code | goodnewscode@gmail.com             |
 | **Head of Frontend Development**     | Your-full-name       | @your-github-username | your-email             |
 | **Head of Mobile Development**       | Your-full-name       | @your-github-username | your-email             |
